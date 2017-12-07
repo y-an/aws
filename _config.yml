@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+name: y-an on aws
+markdown: kramdown
+permalink: /:year/:month/:day/:title
