@@ -1,4 +1,5 @@
 name: y-an on aws
+baseurl: /sample-blog
 markdown: kramdown
 repository: <USERNAME>/<PROJECT>
 permalink: /:year/:month/:day/:title
