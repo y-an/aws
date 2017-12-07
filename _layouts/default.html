@@ -1,21 +1,24 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>{{ page.title }}</title>
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<body>
-		<nav>
-			<ul>
-				<li><a href="/{{ site.baseurl }}">Home</a></li>
-			</ul>
-		</nav>
-		<div class="container">
-		
-		{{ content }}
-		
-		</div>
-		<footer>
-		</footer>
-	</body>
+
+<head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+
+<body>
+<nav>
+    <ul>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+    </ul>
+</nav>
+<div class="container">
+
+    {{ content }}
+
+</div>
+<footer>
+</footer>
+</body>
+
 </html>
