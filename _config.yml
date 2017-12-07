@@ -3,3 +3,5 @@ baseurl: /sample-blog
 markdown: kramdown
 repository: <USERNAME>/<PROJECT>
 permalink: /:year/:month/:day/:title
+
+theme: jekyll-theme-cayman
