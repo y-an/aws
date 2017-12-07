@@ -1,4 +1,3 @@
 name: y-an on aws
-baseurl: /aws
 markdown: kramdown
 permalink: /:year/:month/:day/:title
