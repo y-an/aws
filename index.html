@@ -1,15 +1,12 @@
 ---
 layout: default
-title: y.an on aws
+title: y.an / {{ site.name }}
 ---
-<h1>{{ page.title }}</h1>
 <ul class="posts">
 
 	{% for post in site.posts %}
 	<li>
-		<span>
-			{{ post.date | date_to_string }}
-		</span>
+		{{ post.date | date_to_string }}
 		<a href="{{ post.url | relative_url }}" title="{{ post.title }}">
 			{{ post.title }}
 		</a>
