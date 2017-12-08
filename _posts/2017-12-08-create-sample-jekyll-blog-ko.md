@@ -25,12 +25,12 @@ title: 지킬 블로그 만들기
 사용자 이름이 "블로거" 라는 가정하에 설명합니다. 
 
 ### 블로거.github.io 주소로 하고 싶을 경우
-1. 다음을 포크한다. 저장소 (Repository) 이름: 블로거.github.io
+1. 해당 저장소(Repository) 를 포크(Fork) 한다. 새 저장소 이름:: 블로거.github.io
 2. _config.yml 파일을 열어서 수정한다
 ** baseUrl 삭제
 
 ### 블로거.github.io/blog 주소로 하고 싶을 경우
-1. 다음을 포크한다. 저장소 이름: blog
+1. 해당 저장소를 포크 한다. 새 저장소 이름:blog
 2. _config.yml 파일을 열어서 수정한다
 ** baseUrl을 blog 로 변경
 
