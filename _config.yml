@@ -1,4 +1,4 @@
-name: y-an on aws
+name: y-an / sample-blog
 baseurl: /sample-blog
 markdown: kramdown
 repository: <USERNAME>/<PROJECT>
