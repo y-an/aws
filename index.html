@@ -10,7 +10,7 @@ title: y.an / sample blog
 		<a href="{{ post.url | relative_url }}" title="{{ post.title }}">
 			{{ post.title }}
 		</a>
-		{{ post.excerpt }}
+		{{ post.excerpt | markdownify | strip_html | truncatewords: 50 }}
 	</li>
 	{% endfor %}
 
