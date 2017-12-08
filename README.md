@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/y-an/sample-blog.png?columns=all)](https://waffle.io/y-an/sample-blog?utm_source=badge)
 sample-blog
 ====== 
 
