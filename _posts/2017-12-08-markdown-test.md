@@ -1,6 +1,13 @@
-Markdown Test
-======
+---
+layout: post
+title: Markdown Test
+---
 
+* TOC
+{:toc}
+
+Code
+------
 Inline `code` has `back-ticks around` it.
 
 
@@ -19,6 +26,8 @@ No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
+Table
+------
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
