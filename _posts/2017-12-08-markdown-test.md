@@ -28,6 +28,7 @@ But let's throw in a <b>tag</b>.
 
 Table
 ------
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
