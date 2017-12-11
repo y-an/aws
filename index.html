@@ -9,11 +9,13 @@ layout: default
 			{{ post.title }}
 		</a>
 
-		on {{ post.date | date: '%B %-d, %Y' }}
+		on {{ post.date | date: '%B %-d, %Y' }}:
 		
+		<p>
 		<small>
 			{{ post.content | markdownify | strip_html | truncatewords: 20 }}
 		</small>
+		</p>
 	</li>
 	{% endfor %}
 
