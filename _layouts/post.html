@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+
+<a href="{{ baseurl | absolute_url }}" title="Back">
+    Back
+</a>
+
 <p class="meta">
     {{ page.date | date: '%B %-d, %Y' }}
 </p>
@@ -12,3 +17,7 @@ layout: default
 <div class="post">
     {{ content }}
 </div>
+
+<a href="{{ baseurl | absolute_url }}" title="Back">
+    Back
+</a>
