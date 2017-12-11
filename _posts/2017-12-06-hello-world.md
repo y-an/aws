@@ -1,3 +1,7 @@
+---
+category: about
+---
+
 Summary
 ------
 This site is prototype to test/evaluate of following components:

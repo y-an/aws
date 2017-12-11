@@ -4,4 +4,10 @@ markdown: kramdown
 repository: <USERNAME>/<PROJECT>
 permalink: /:year/:month/:day/:title
 
-theme: jekyll-theme-cayman
+defaults:
+  -
+    scope:
+      path: "" 
+      type: "posts" 
+    values:
+      layout: "post"

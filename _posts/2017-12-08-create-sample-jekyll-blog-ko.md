@@ -1,6 +1,6 @@
 ---
-layout: post
 title: 지킬 블로그 만들기
+category: about
 ---
 
 참고: 아래 글은 현재 진행 형입니다. 
