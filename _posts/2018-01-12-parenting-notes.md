@@ -35,6 +35,7 @@ Size and Growth Timeline
 
 디지털 단식
 -----
+* [Reset Your Child's Brain by Victoria L. Dunckley](https://smile.amazon.com/dp/B01056HO2A)
 * "요즘 아이들은 부모와 보다 많은 시간을 보내고 싶지만 바쁘고 무언가에 정신이 팔려 있는 부모한테 무시당하고 있다고 느끼고 있다."
 * [blog.naver.com/thothbook/220693973759](http://blog.naver.com/thothbook/220693973759)
 * [woman.chosun.com](http://woman.chosun.com/client/news/viw.asp?nNewsNumb=20160658581)
