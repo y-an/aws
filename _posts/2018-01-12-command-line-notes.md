@@ -7,7 +7,7 @@ title: Command Line Notes
 
 Windows Command Prompt & PowerShell
 -----
-Remove characters from folder (first 1 for example below)
+Remove characters from file names within folder (first 1 for example below)
 ```
 get-childitem *.txt | rename-item -newname { [string]($_.name).substring(1) }
 ```
