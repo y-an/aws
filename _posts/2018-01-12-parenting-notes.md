@@ -1,5 +1,5 @@
 ---
-title: Baby Notes
+title: Parenting Notes
 ---
 
 * TOC
