@@ -1,5 +1,5 @@
-name: y-an / sample-blog
-baseurl: /sample-blog
+name: y-an 
+baseurl: /
 markdown: kramdown
 repository: <USERNAME>/<PROJECT>
 permalink: /:year/:month/:day/:title
