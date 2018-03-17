@@ -52,3 +52,9 @@ github 웹페이지에서 "_posts" 폴더 안에 2017-01-31-subject.md 파일을
 1. (댓글 서비스가 필요하다면) Disqus 설치하기 
 1. Google Search Console에 등록하기 (정보 공유가 목적이 아닐 경우 필요 없음)
 1. [각주 달기](http://sherifsoliman.com/2014/11/07/Bigfoot-in-Jekyll/)
+
+References
+------
+1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
+1. [Configuring Jekyll for User and Project GitHub Pages](http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/)
+1. [Jekyll Date Formatting Examples](http://alanwsmith.com/jekyll-liquid-date-formatting-examples)
