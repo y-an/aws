@@ -27,6 +27,19 @@ Prototype
 * Shallow or Deep Copy
 * Great to set default values in Registry.create method
 
+Factory
+-----
+* Opposite of Singleton
+* Example: Calendar
+
+Abstract Factory
+-----
+* Factory of Factories
+* Hides the Factory
+* Abstracts Environment
+* Built through Composition
+* Framework pattern
+
 Extra
 -----
 * "If pattern includes another pattern, it's framework"
