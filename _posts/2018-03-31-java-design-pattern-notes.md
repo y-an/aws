@@ -1,9 +1,12 @@
 ---
-title: Java Creational Design Pattern Notes
+title: Java  Design Pattern Notes
 ---
 
 * TOC
 {:toc}
+
+Creational
+=====
 
 Singleton
 -----
@@ -39,6 +42,36 @@ Abstract Factory
 * Abstracts Environment
 * Built through Composition
 * Framework pattern
+
+Structural
+=====
+
+Adapter
+-----
+* Multiple Adapters
+* Don't add functionality - consider decorator
+* Retrofitted
+
+Bridge
+-----
+
+Composite
+-----
+
+Decorator
+-----
+
+Facade
+-----
+
+Flyweight
+-----
+
+Proxy
+-----
+
+Behavioral
+=====
 
 Extra
 -----
