@@ -54,6 +54,10 @@ Adapter
 
 Bridge
 -----
+* Designed upfront for uncertainty and flexibility
+* Abstraction and implementation vary
+* Built in advance and complex. 
+* Utilizes composition, but more.
 
 Composite
 -----
