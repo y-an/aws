@@ -64,6 +64,10 @@ Composite
 
 Decorator
 -----
+* Doesn't change underlying object (Base object can stay same )
+* Modifies (adds) behavior
+* New class for every feature added
+* Often confuised with simple inheritance
 
 Facade
 -----
