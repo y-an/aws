@@ -23,4 +23,5 @@ Computers
 * Custom Desktop in 2012 (i5-3570K) in 2012 
   * 아직 사용 중
   * AsRock Z77 Pro4 / Corsair 600T 
+  * Sapphire Radeon HD 7950
 * Dell Inspiron 13 7000 (i5-8250U) in 2017
