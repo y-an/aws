@@ -15,7 +15,9 @@ Phones
 * HTC m8 in 2014 
 * LG G4 in 2015
 * Samsung S7 in 2017
-* Samsung S9+ 8n 2018
+* Samsung S9+ in 2018
+  * $460 https://slickdeals.net/f/11489631
+  * $490
 
 Computers
 -----
@@ -28,3 +30,4 @@ Computers
   * Sapphire Radeon HD 7950 3GB
   * XFX Radeon RX 580 GTS Black Edition 8GB
 * Dell Inspiron 13 7000 (i5-8250U) in 2017
+  * $650 + 40 tax - 100 amex - 78 ebates- 20 Reward= $500
